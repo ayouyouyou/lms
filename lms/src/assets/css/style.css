@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Courier New", Courier, monospace;
+}
+.el-table .danger-row {
+  background: #fff2f2;
+}
+.el-table .warning-row {
+  background: oldlace;
+}
+.el-table .success-row {
+  background: #f7fcf3;
+}
