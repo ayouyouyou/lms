@@ -56,6 +56,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 图书查询检索和统计
 
+上传文件
+
 ##### 用户
 
 读者注册
@@ -63,6 +65,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 读者部分信息的修改
 
 读者信息的查询检索
+
+上传文件
 
 ##### 图书借还管理
 
